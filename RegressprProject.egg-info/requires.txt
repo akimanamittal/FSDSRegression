@@ -1,5 +1,7 @@
 Flask
+dill
 numpy
 pandas
 scikit-learn
 seaborn
+sklearn
